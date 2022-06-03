@@ -3,8 +3,8 @@
 ## Endpoints
 
 - `/teams`
-- `/team/{id}`
-- `/team/{id}/rides`
-- `/team/{id}/ride/{id}`
-- `/team/{id}/members`
-- `/team/{id}/member/{id}`
+- `/teams/{id}`
+- `/teams/{id}/rides`
+- `/teams/{id}/rides/{id}`
+- `/teams/{id}/members`
+- `/teams/{id}/members/{id}`
